@@ -69,7 +69,7 @@ def removeDuplicates(list):
       list.append(item)
 
 def getLatestLaws(laws):
-  removeDuplicates(list)
+  removeDuplicates(laws)
   laws.sort(key=date, reverse=True)
   return laws.Take(10)
 ```
