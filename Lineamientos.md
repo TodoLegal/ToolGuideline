@@ -1,6 +1,6 @@
 # Lineamientos para contribuir con herramientas a TodoLegal
 
-Crea un Readme que contenga:
+Crea un [Readme](https://github.com/TodoLegal/ToolGuideline#setup) que contenga:
 
 1. Instrucciones de instalación
 2. Instrucciones de ejecución
