@@ -8,8 +8,8 @@ Crea un Readme que contenga:
 
 Asegurate que:
 
-1. El programa se pueda ejecutar via línea al menos en Debian Linux (otras distros y SOs también bienvenidos)
-2. EL programa reciba parametros separados por espacios (como un comando de CLI tradicional)
+1. El programa se pueda ejecutar en Debian Linux (otras distros y SOs también bienvenidos)
+2. El programa reciba parametros separados por espacios (como un comando de CLI tradicional)
 3. El programa devuelva su respuesta via `Stdout` en formato `JSON`
 
 ## Estilo de código de TodoLegal
